@@ -1,0 +1,393 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>An encomium upon that most accomplished gentleman, Stephen Mosdel ... as also a short narrative or anatomie of the Fleet-prison, Newgate, and both the compters / by John Knap ...</title>
+            <author>Knap, J. (John)</author>
+         </titleStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 23 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A47526</idno><idno type="EEBO-CITATION">12244723</idno>
+  <idno type="VID">56894</idno>
+  <idno type="EEBO-PROQUEST">2248543611</idno>
+  
+            <idno type="STC">Wing K665</idno>
+            <idno type="STC">ESTC R31683</idno>
+            <idno type="OCLC">12244723</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. A47526)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 56894)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1507:7)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>An encomium upon that most accomplished gentleman, Stephen Mosdel ... as also a short narrative or anatomie of the Fleet-prison, Newgate, and both the compters / by John Knap ...</title>
+                  <author>Knap, J. (John)</author>
+               </titleStmt>
+               <extent>[6], 38 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>1671.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Imperfect: print showthrough and loss of print.</note>
+                  <note>Reproduction of original in the Harvard University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="personal_name">Mosdel, Stephen.</term>
+               <term type="topical_term">Prisons --  England.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>John Latta</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:56894:1"/>
+            <pb facs="tcp:56894:1"/>
+            <p>AN ENCOMIUM UPON That most Accomplish'd <hi>GENTLEMAN,</hi> Stephen Mosdel, <hi>Esq;</hi> Martial of the <hi>Kings-Bench</hi> Prison, <hi>Southwark.</hi>
+            </p>
+            <p>As also a short Narrative, or Anatomie of the <hi>Fleet-Prison, Newgate,</hi> and both the <hi>Compters.</hi>
+            </p>
+            <p>By <hi>John Knap,</hi> M. D. Philalethes.</p>
+            <q>
+               <l>The Worthey are to wear the Bays.</l>
+               <l>Whose Temples, when begirt with it;</l>
+               <l>Shews but the merits of a praise,</l>
+               <l>Confer'd by them who point at it.</l>
+            </q>
+            <p>Printed in the Year, 1671.</p>
+         </div>
+         <div type="to_the_reader">
+            <pb facs="tcp:56894:2"/>
+            <pb facs="tcp:56894:2"/>
+            <head>TO THE READER.</head>
+            <p>INgeni<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>us Reader, if thou wilt wast off a few volatile min<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ets in persual of this leaden piece of lumber, I pro<g ref="char:EOLhyphen"/>mise in some sort to requite thee by using brevity, and eschewing affectaiton, Rho<g ref="char:EOLhyphen"/>domoniads, or crackling words; for look how they fall fr<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>m my Pen, so they shall pass without being lickt into any other form then what they were whelpt; for he that dives for Pearl in the Ocean of Ver<g ref="char:EOLhyphen"/>bosity,
+<pb facs="tcp:56894:3"/> may meet with a quarre of pebbles, and be gravel'd in disgrace.</p>
+            <p>I shall therefore keep such a <hi>medium,</hi> and so Cloath my discourse, as is a fit dress for Truth to be seen in, studying more the weight of verity, then orna<g ref="char:EOLhyphen"/>ment of words, by which I may escape a Cloud of Censure, which will over<g ref="char:EOLhyphen"/>cast the brightest beams of Ingenuity.</p>
+            <p>But not to arrest thy patience with a farther interruption, I give a stop to the current of my Pen, and redress to my subject.</p>
+            <p>But before I begin (by the way of Parenthesis) I must tell thee, I almost fear to name the person I would com<g ref="char:EOLhyphen"/>mend, lest I sin against his humanity, which can suffer any thing but its own
+<pb facs="tcp:56894:3"/> praises, like the Sun, which (though all admire) it cannot admire it self.</p>
+            <p>But yet such are my affections, that (like powder enclosed in a Ball of iron) they cannot but take fire and rend their furious parts as impatient, to come to their center of Love.</p>
+         </div>
+      </front>
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:56894:4"/>
+            <pb n="1" facs="tcp:56894:4"/>
+            <head>An Enconium upon that most Accomplish'd Gentle<g ref="char:EOLhyphen"/>man, <hi>Stephen Mosdel,</hi> of the <hi>Kings-Bench</hi>-Prison, <hi>Southwark,</hi> &amp;c.</head>
+            <p>
+               <seg rend="decorInit">I</seg>T is not a thousand years since I wa<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a Carcerarian under the Custody of this Gentleman, and a poor Victim upon his Acture, trembling like a Par<g ref="char:EOLhyphen"/>tridg before a Faulcon; but instead of <hi>Vul<g ref="char:EOLhyphen"/>ters</hi> Talens, I met with silken hands; and in lieu of Sack-cloath and Ashes, I found cloath of Tissue, and spread Carpets of Velvet. The ravenous Kite, which in other Prisons g<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ipes the poor Robins to the hearts, was
+<pb n="2" facs="tcp:56894:5"/> here turn'd to a Dove, and fed me; nothing that had hands of merit to reach, but might receive mercy from him.</p>
+            <p>I cannot blazen his Coat, nor derive his Pedigree, and so an unfit Herauld of his paturnal glory; but this I can say, and he needs not blush to hear it, <hi>suis majoribus virtute praeluxit.</hi> It is a true saying, <hi>a good man is known by giving good Examples,</hi> for his wholsome documents are as golden Spurs to Virtue; behold but the civil deport<g ref="char:EOLhyphen"/>ments of all his Sublunaries and Servants, what a harmony Syntax, or Synteresis there is amongst them, who are as so many Trum<g ref="char:EOLhyphen"/>pets, to proclaim their Masters Renown. One would think (by their strange, and un<g ref="char:EOLhyphen"/>heard of humanity,) they had been <hi>Acade<g ref="char:EOLhyphen"/>mians,</hi> &amp; Brothers to the Muses; they are the most obligiv'd persons, that ever I put mine eyes upon; so infinite is their patience and humanity, that a man can hardly abuse them,
+<pb n="3" facs="tcp:56894:5"/> because they cannot be made angry at a<g ref="char:EOLhyphen"/>buses; from the <hi>Janitore</hi> to the <hi>Scabinuum,</hi> they move in such a Votary Zodiack, that one would take them for a planetary Society about the Sun, and therefore the <hi>Bench</hi> may be stil'd rather to be an <hi>Academy</hi> than a <hi>Prison,</hi> and truly no marvel; for how can a ship run against a Rock, when so wise a Pilot sits at Helme.</p>
+            <p>That brave Soul, the Martial, is a man so truly merciful, that he never eats a plenti<g ref="char:EOLhyphen"/>ful Meal, but it minds him of those which are in necessity, whom he presently refreshes, by opening the sluces of his bounty, from whence silver streams of Charity plentifully flowes.</p>
+            <p>Amongst many others, witness my self, whom he sent for (after I was tired out by a long seige of Tiranical Enemies, and spirit-bound, through want and sickness,) saying
+<pb n="4" facs="tcp:56894:6"/> thus; <hi>Doctor, I understand you are a person of fair endouments, but above all, sublimely qualified upon a Physical account; it pitties me to think you should be baracado'd up, and obstructed from liberty; I hope therefore if I give it you, it will not be abused? I dare say Doctor, if any of your Creditors,</hi> (and I had not a few) <hi>bring you in Execution, you will not abscond your self, or play least in sight, will you Doctor saies he?</hi> But me<g ref="char:EOLhyphen"/>thoughts, all this while it was not his, but an Angels voyce, his vocal Cadences (like Chataracts or Stillacids of honey) hapst into the bosome of the Aire, and perfum'd it (as if the Gardens of Spices had been set on fire, or a pot of Incense kindled); but to his <hi>Quere</hi> I thus repli'd.</p>
+            <p>
+               <hi>Sir,</hi> I have no other hostage then mine honour, which I freely paune, wishing that hour I forfit the same, (<hi>Herod</hi> like) my flesh may be eaten up with wormes, and my Soul
+<pb n="5" facs="tcp:56894:6"/> by <hi>Charon,</hi> be wasted over the <hi>Stygian-Lake,</hi> and stay in Hell till my body comes, where the Infernal Spirits may rendevoues in the most inward recesses thereof.</p>
+            <p>
+               <hi>Well Doctor saies he, no more, no more; I am satisfied of your Integrity; go and prosper, I take your own word; use the large Talent Heaven has bestowed upon you, and those rich dowries of the Diety, which (if you please your self) may make you inferi<g ref="char:EOLhyphen"/>our to nothing, great or opulent:</hi> And then (like those Angels which conducted <hi>Lot</hi> out of <hi>Sodom</hi>), he departed.</p>
+            <p>O unheard of Candour! I am ravish'd, my hare stands an end, all the <hi>Oecomonicks</hi> of Nature are unhinged; my blood cruses like Julebs through my veins; I could run out of my self, to make room for admiration! What, for an Eagle to stoop at a Wren, which preys upon Flies and Spiders, while he
+<pb n="6" facs="tcp:56894:7"/> himself sets upon the highest Turret in the house of Fame, <hi>O de boni?</hi> now I believe the Doctrine of <hi>Pythagoras,</hi> about Transmi<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>gration of Souls, that some Angel slipt into his body when he was asleep. O unheard of bounty! to snatch a man (by a holy violence) from a burning lake of Penurie: What shall I say? had any thing done it, but himself whose natural temper is alwaies to do good, I should swear Miracles were not yet ceas'd. Go harrow the Topicks of the world, and fly to the very <hi>Coelum imperiosum,</hi> see if you can meet with such another <hi>Pompey</hi> of ho<g ref="char:EOLhyphen"/>nour, to take a mans own single word for Actions amounting to at least 2000. <hi>l.</hi> when as, if I had given him the slip, the Wallet had lain upon his back; and all this while nothing could irritate him to it, but true pitty to a distressed Gentleman, bred up to parts, perhaps somthing better then usually men are in this blookish age.</p>
+            <pb n="7" facs="tcp:56894:7"/>
+            <p>Truly I am not stipend to enchase his ver<g ref="char:EOLhyphen"/>tues with the black enamel of my weak praises, which rather sullies then adorns. I do but tender a payable duty, to prevent a surfeit of ingratitude, call'd the black-jaun<g ref="char:EOLhyphen"/>dies of the Soul, or the Devils Epidemical pest, and so what shall I say? I am out of breath, the farther I run, the farther I am be<g ref="char:EOLhyphen"/>hind, like a Cow persuing a Hare; the more I speak, the more I have to say. The vertue of his little finger were subject enough for my shallow brains to work upon, and so I consider it is best to do as <hi>Geographers,</hi> who draw the whole world in a little Map; I shall therefore in a few sheets, shew his back-parts, it will require a large volume to delineate his full splendour.</p>
+            <p>In fine, he is the mirour of man-kind, and one of an unfathomable worth, which was ne<g ref="char:EOLhyphen"/>ver conspicuous, till of late, he became ca<g ref="char:EOLhyphen"/>pacitated to shew it; and now, nothing
+<pb n="8" facs="tcp:56894:8"/> but a blind Buzzard, a stupify'd paralitical obtuse dunce, in whose Cockscomb the De<g ref="char:EOLhyphen"/>vil has board a hole, took out the brains and shit in't, but must see his heroick Soul qua<g ref="char:EOLhyphen"/>lifi'd and adapted from all goodness and ge<g ref="char:EOLhyphen"/>nerosity.</p>
+            <p>I confess he is fitter for a nobler imploy, then what he is possest off, and yet the fitest for it, for who so fit for distressed objects as a merciful man, one made up of bowels of Compassion, ordein'd like <hi>Habakkuk</hi> to feed Lambs in a Lyons Den; yea, it was a Den, a <hi>summum jus,</hi> to bury men alive in; a <hi>Golgotha,</hi> an <hi>Acheldama</hi> a <hi>Charnel-house, Mortuary,</hi> or <hi>Hell,</hi> before this brave Soul (by his generous Candour) rebaptiz'd it, and now it may be called an Hospital, or Sanctuary.</p>
+            <p>And yet notwithstanding that these his Corruscant rayes of a beautiful example
+<pb n="9" facs="tcp:56894:8"/> shines so bright, and conspicuous in the eyes of all men; how flinty and pertinacious are some Custodia<gap reason="illegible: faint" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ians, sucking poor Prisoners hearts bloods out; upon which score, I am Ecstased, and wonder at the preposterous madness of these which are attached by the Devils Life-guard, called <hi>Bayliffs,</hi> or <hi>Ser<g ref="char:EOLhyphen"/>jeants,</hi> that they should turn over to any o<g ref="char:EOLhyphen"/>ther Prison but the <hi>Bench.</hi>
+            </p>
+            <p>For to speak truth, that Judg which sends you thither, transmits you (as it were) to your Fathers house; but he that packs you to the <hi>Fleet,</hi> hurries you to <hi>Purgatory,</hi> where you shall lye broyling like <hi>St. Lau<g ref="char:EOLhyphen"/>rence</hi> upon a Grediron of Discontent, and Toosted upon a fork of Flagrancy, till all your pecuniary fat drops into their dripping pans, and so you become lean as <hi>Pharaohs</hi> Cows; there you shall be in a great house, like Asses in a Pound, chewing the Cud in apprehension of Provender, while the Fidler
+<pb n="10" facs="tcp:56894:9"/> plays no such matter; and thus the old Pro<g ref="char:EOLhyphen"/>verb is verefied, <hi>the nearer the Church, the farther from God.</hi>
+            </p>
+            <p>I have had the misfortune to try both, and both have try'd my patience. But should necessity put me upon being in one, I would rather be seaven years in the <hi>Bench,</hi> then so many days in the <hi>Fleet:</hi> I love not that Church where the Devil rings the Saints Bell, nor that flock of Geese where the Fox Preaches.</p>
+            <p>I had rather associate with the Dove, then the Kite, or be in a Pinfold with the Lambs, then lock'd up in the Tower with the Lyons; but yet there be some Fooles, who had ra<g ref="char:EOLhyphen"/>ther go naked, then want a gay Coate. It is a dangerous pest which is catcht by the wind of Curiosity.</p>
+            <pb n="11" facs="tcp:56894:9"/>
+            <p>The <hi>Fleet</hi> puts me in mind of a great Dutch Strumpet, bedaubed with Gold Lace, living at the sign of the <hi>Vacuum,</hi> who use to draw in a pack of Coxcombs to see her fair house, while she pick'd their pockets; like the <hi>German</hi> Princess, who bull'd the poor Citizen: or rather the <hi>Fleet</hi> resembles a Roman Statue, which is brass without, and dirt within.</p>
+            <p>There's a fair house, but slender rules, which reach no farther then the new built Baudy-houses, which is about as far from the <hi>Fleet,</hi> as one of her Prisoners can piss, who is so poor he can hardly shite for bones. When the Devils blind (and one of his eyes are out) <hi>Habeas Corpuses</hi> will be granted; pray God it be <hi>Iohn,</hi> that <hi>Will.</hi> may not have his Will.</p>
+            <p>In fine, I look upon the <hi>Fleet</hi> to be a Decoy, which brings poor Ducklings into
+<pb n="12" facs="tcp:56894:10"/> the Net, and off goes their necks. Whereas the noble <hi>Bench,</hi> is rather a Sanctuary, then a Prison, defending distressed Gentlemen from ravenous Wolves, who would rend them in pieces, and be licking their Arses before they can let down their Britches.</p>
+            <p>Such I say, the <hi>Bench</hi> legally relieves, and instead of wounding, heals them; therefore, since men must be chastized for telling lies, had they not better be whipt with a Nose-gay than a Rod of Iron? if a man must be a Prisoner, had he not better be in the <hi>Bench,</hi> where he shall be nobly used, then in the <hi>Fleet,</hi> to lie wind-bound, spirit-bound, and to boote, strike sayle to every inconsiderable Coxcomb (I would say Cockboat) but preposterous people will run like a guiddy torrent, wheresoever phantasie transports them, and sayle with e<g ref="char:EOLhyphen"/>very blast of Innovation.</p>
+            <pb n="13" facs="tcp:56894:10"/>
+            <p>I confess the <hi>Fleet</hi> is a fairer house then the <hi>Bench;</hi> what then? sounds the Viol ever the better for the Varnish? or is the Parsons Sermon more edifying for the Vel<g ref="char:EOLhyphen"/>vet Cushion? Give me good meat in an earthen dish, rather then Carrion in a silver Charger. A brave mind in a mean habit, is to be prefer'd before a painted <hi>Jezebel</hi> with a polluted heart. I had rather dye in our noble Martials Armes, then live in the bosome of the <hi>Fleet,</hi> for which, if you expect mercy, you will be deceived like <hi>Scoging,</hi> who went to let a Fart, and beshit his breeches; perhaps you may get a parcel of fair words.</p>
+            <p>But no longer <hi>Larzion,</hi> no longer <hi>Swish;</hi> the <hi>Fleets</hi> sweet language, with its now per<g ref="char:EOLhyphen"/>formance, is like the Courtship of the Sun and Moon, who have lookt upon each other 6000. and odd years, and never kis'd, nor came together.</p>
+            <pb n="14" facs="tcp:56894:11"/>
+            <p>The Officiates at the <hi>Fleet,</hi> are like the <hi>Hebrew</hi> Language, to be read backwards; when they promise Mountains, look for Mole-hills; and thus distressed Gentlemen become Slaves to Mecanick Rascals; where<g ref="char:EOLhyphen"/>as on the contrary, our heroick Martial, the glory of the living, the poor mans patron' and the Prisoners Sanctuary, is as good, as just, and as merciful as may be; his lovely face being an Index of his generous Soul; one so lovely, that a man would think na<g ref="char:EOLhyphen"/>ture had made all the rest of man-kind in jeast, and him only in earnest.</p>
+            <p>Had he been a woman, I should have ven<g ref="char:EOLhyphen"/>tured my neck in a Rope, rather than lost so much pleasure as so sweet a personage would have afforded; and he is not more outwardly handsome, than inwardly gracious, for look what his Tongue saies (which is the Ambassador of his Soul) his heart resolves to act, and so his glorious spirit has a scabard
+<pb n="15" facs="tcp:56894:11"/> sutable to the embelisht steel within, but be<g ref="char:EOLhyphen"/>ware how you draw him to anger, least (like the Cherubims flaming sword) some sparks flie in your face; for <hi>Corruplio oplimi est pessima,</hi> the Bee has a sting, well as honey; and the sweet Rose prickles; he is a Father to the Ingenious, but a scourge to the Impi<g ref="char:EOLhyphen"/>ous, and so 'his Iron hand will recompence his leading feet; he will forbear much, but not too long: Those that think to load themselves with spoiles, taken from the Ar<g ref="char:EOLhyphen"/>my of his abused mercies, make but a rod for their own backs, and will be cheated like <hi>Perillus</hi> about the brazen Bull.</p>
+            <p>I am sorry my throat is too narrow to proclame his deservings, I wish I were qua<g ref="char:EOLhyphen"/>lified enough to do it, and then no golden-tongu'd Orator should draw the Efficies of his merits more to the life then I. O that I had the Arch-Angels Trumpet, that I might make both Heaven and Earth ring of his Re<g ref="char:EOLhyphen"/>nown!
+<pb n="16" facs="tcp:56894:12"/> But I am not parted sufficiently to do it, my Pen flags like a Buzzards wings, from whence it was pluck'd, else I would en<g ref="char:EOLhyphen"/>role him in fames eternal Register, and that with the point of a Diamond.</p>
+            <p>His mercies have not been a few to most, more, or less to all, but infinite to me. To my knowledg (besides my self) above two hundred persons, together wich their Wives and Children, owe their lives to his benig<g ref="char:EOLhyphen"/>nity; Therefore doubtless, ere age gets one foot in the Grave, he will get sure footing in Heaven. For mercy rejoyces against the day of mercy, and cruel men tremble to think of the day of Judgment.</p>
+            <lg>
+               <pb n="17" facs="tcp:56894:12"/>
+               <l>IF so, how happy are the just; how sweet</l>
+               <l>Their joyes will be when Soul and body meet?</l>
+            </lg>
+            <lg>
+               <l>When th' Angels shall invite them to a feast</l>
+               <l>Of Solace, Comsort, and Eternal Rest?</l>
+            </lg>
+            <lg>
+               <l>There shall they sit upon the Throne of Grace,</l>
+               <l>Beholding Christ the Saviour, face to face!</l>
+            </lg>
+            <lg>
+               <l>With all the Heavenly Host of Saints, and Quire</l>
+               <l>Of Angels, bright as the Caelestial fire.</l>
+            </lg>
+            <lg>
+               <l>Then let our noble <hi>Martial</hi> surely know,</l>
+               <l>He has a place above, well as below.</l>
+            </lg>
+            <pb n="18" facs="tcp:56894:13"/>
+            <p>Then thus you see what it is to be merci<g ref="char:EOLhyphen"/>ful, and what to be crewel, to our poor di<g ref="char:EOLhyphen"/>stressed Brethren, who are within the Verge of our powers to help, or hurt. <hi>When I was Naked, you Cloathed me not; when in Pri<g ref="char:EOLhyphen"/>son, you Visited me not: Woe to them who chose the distressed as a mark to shoot at, for they will find their Arrows reverberate upon their own bosoms.</hi>
+            </p>
+            <p>But the merciful and humble will have a Cage of Nightingals dwelling in their breasts, always singing Halalujahs, and Son<g ref="char:EOLhyphen"/>nets taught by the Master of Caelestial Mu<g ref="char:EOLhyphen"/>sick, the Holy Ghost.</p>
+            <p>Oh! Its only proper for base Spirits to glut their Swords with blood; and thegreatest symptome of a Coward, to Tyranize over a Gyant bound in Chaines.</p>
+            <pb n="19" facs="tcp:56894:13"/>
+            <p>Happy he then, who lends an ear to the cries of the poor, for he will find the Hea<g ref="char:EOLhyphen"/>vens besieged with prayers for his salvation. Then away with those Pa<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>asits, who have <hi>Jacobs</hi> voyce, and <hi>Esaus</hi> hands; whose garments smell of Incense, while their Al<g ref="char:EOLhyphen"/>ters stink of the smoak and blood of Mar<g ref="char:EOLhyphen"/>tyrs. Come, come, too high winding a string, cracks it; and he that makes the sword of Justice too sharpe, may cut his own fingers.</p>
+            <p>Behold then our noble Martial, a prece<g ref="char:EOLhyphen"/>dent of mercy drawn to the life by a divine Pensil, that good man, dear to God, and born for holy enterprizes, will let him go on like an innocent Dove, and spread his silver wings far as his praises reach, that at last he may be lifted to that <hi>Caelum impe<g ref="char:EOLhyphen"/>rium</hi> while cruel Tyrants lie grouling in the internal abiss of Hell: Let his holley cheeks be bedew'd with tears of pitty, and not his
+<pb n="20" facs="tcp:56894:14"/> hands be besmeard with the blood of Inno<g ref="char:EOLhyphen"/>cents. Let not his Soul drink gall, while his lips distil honey; but let his actions be consonant with his expressions, like a true eight struck in Musick, nor let his Porch be fairer then his Temple, and then his Lifes bright Sun will set with greater glory far, then others rise; his Acti<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ns will blos<g ref="char:EOLhyphen"/>some in the dust; his Urne will parturiate flowers which will smell sweet in the Nostrils of the Saints, and the Angels will strive to pully and hoise him up to Hea<g ref="char:EOLhyphen"/>ven.</p>
+            <p>Let our dear Martial remember that as he professes Christianity, so he is Governor o<g ref="char:EOLhyphen"/>ver Christians: Alass, what we enjoy here, is but slippery and uncertain, and our digni<g ref="char:EOLhyphen"/>ties are full of frailties. It is me<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cy and good works which refers to immortal felici<g ref="char:EOLhyphen"/>ty, and links men to eternal beatitude; goods got by cruelty and sinister ends, are
+<pb n="21" facs="tcp:56894:14"/> like Bats wings which flatter about for a time, in the obscure twy-light of this world, but like plummets of lead, hanging upon a mans heels, they will sink them down to Hell, while mercy (like the wings of Eagles) bears them up to the Region of the Sun; the triumph of a good man, is to have sin in power, and virtue in will, to be able to do evil, and continue it.</p>
+            <p>But I beseech you heroick Sir, be not dis<g ref="char:EOLhyphen"/>pleased, that a little yeap seems to snarl at a Lyon; if I be too saucy, it is affection which causes me so; but there is no man so healthful, but somtimes needs the Physici<g ref="char:EOLhyphen"/>an; a little Cloud may give the Marriner warning of a great Tempest; no man so holy but may err; and for a person of your grandure, to have your honour darkned, is ten times worse then for an habitual sinner to dye upon the Gallows; a black spot is quickly d<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>scerned in a beautiful face; the
+<pb n="22" facs="tcp:56894:15"/> Sun is more gaz'd at in one hour when E<g ref="char:EOLhyphen"/>clipsed, then in seaven years when she shines most corruscantly. Greatness with goodness, sets off the lusture of vertue, else it makes vice more apparent.</p>
+            <p>Sir, your favours have not been small to me, and so my affections (to level them) cannot be slender to you; for my life in<g ref="char:EOLhyphen"/>deed is but a monument of your mercies, and therefore I covet it for nothing more, then that I might live to show the world I love you.</p>
+            <p>Thus honourable Sir, you being establish<g ref="char:EOLhyphen"/>ed in Virtue and Renown: Let <hi>Shemys</hi> curse you; let Dogs bark as at the Moon; let your Enemies (swell'd with anger at your prosperity) split like Toads, and lie dead in ditches; for after the misty Clouds which would darken your honour, after faithfulness
+<pb n="23" facs="tcp:56894:15"/> of seeming friends, nay after thunder-bolts, shot from the Capital of infernal Finds, be over, then the continual feast of a good Conscience will dulcifie all your afflictions; for these terrene discontentments are but sower sauces to those sweet meats which shall be set before you in Eternity of bliss. Proceed therefore precious Soul, that ha<g ref="char:EOLhyphen"/>ving on the wedding garment, you may be a welcome guest at that holy Table, and then we your poor Servants, whom you have so much obliged, shall reverence your name as a perpetual monument of glory, built upon such strong colums, as the steely teeth of time shall never be able to corrode in sun<g ref="char:EOLhyphen"/>der.</p>
+            <lg>
+               <pb n="24" facs="tcp:56894:16"/>
+               <l>Heroic Martial; if I might stand by,</l>
+               <l>Whon saucy Death will summons you to dye.</l>
+            </lg>
+            <lg>
+               <l>I'd ward his stroak, by laying down my blood,</l>
+               <l>To free a man so generously good.</l>
+            </lg>
+            <lg>
+               <l>But if the gods, through pity should be loath,</l>
+               <l>To have me dye, not being sit for Death:</l>
+            </lg>
+            <lg>
+               <l>And knowing, you adopted for the Throne</l>
+               <l>Of Grace, by Life and Conversation;</l>
+            </lg>
+            <lg>
+               <l>Should snatch your bright Soul from hence, and even,</l>
+               <l>Give it a remove from Earth to Heaven.</l>
+            </lg>
+            <lg>
+               <l>I should take leave, in spight of all your powers,</l>
+               <l>To make mine eyes out-vie the Clouds with showres.</l>
+            </lg>
+            <lg>
+               <pb n="25" facs="tcp:56894:16"/>
+               <l>Till like that bow-boy, <hi>Cupid,</hi> blind I prove,</l>
+               <l>Partly with briney tears, but more through Love.</l>
+            </lg>
+            <lg>
+               <l>But as your blood is fresh, and young you are,</l>
+               <l>And well-complexion'd, brisk and debonare;</l>
+            </lg>
+            <lg>
+               <l>There is no fear, but you may live to see,</l>
+               <l>As many years, as <hi>Par,</hi> or <hi>Latomie.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Christ grant you may, else grant good God that I</l>
+               <l>Had ne'r been born, or else being born to dye.</l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Quid dicam homines, quod verum dicere licet,</hi>
+               </l>
+               <l>
+                  <hi>Caesare de lauro praestautior, editus ille.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>
+                  <hi>Ideo non Carcer Bancus hic regius esto,</hi>
+               </l>
+               <l>
+                  <hi>Tollit, quod, sensus tunc indulgentia sui.</hi>
+               </l>
+            </lg>
+         </div>
+         <div type="narrative">
+            <pb facs="tcp:56894:17"/>
+            <pb n="27" facs="tcp:56894:17"/>
+            <head>A Narrative of <hi>New<g ref="char:EOLhyphen"/>gate,</hi> and both the <hi>Comp<g ref="char:EOLhyphen"/>ters,</hi> &amp;c.</head>
+            <p>BUt now my hand is in, I think it not a<g ref="char:EOLhyphen"/>miss to speak somthing concerning <hi>Newgate,</hi> that Akelcima or Sanguineus place; not forgetting both <hi>Compters,</hi> and the rest of the Devils Pepper-boxes. <hi>New<g ref="char:EOLhyphen"/>gate</hi> it seems was built by <hi>Whitingtons</hi> Cat, I wish she had scratch'd both her Masters eyes out for an old Dog: 'Twere a fine free School, but that she hangs up many of her Desciples; yet some are taught to read, and
+<pb n="28" facs="tcp:56894:18"/> escape it, by having the Law in their own hands, with a <hi>fusco ferali,</hi> marking them for<g ref="char:EOLhyphen"/>sooth like beasts to be known, though to little purpose, for they are sure to find them again. But I wonder there's no better pro<g ref="char:EOLhyphen"/>vision for those of the Upper Forme, (the poor Debtors) who pay unmerciful rates for being made Loufie, and used like Dogs.</p>
+            <p>But what care the Officers, let their Wives, Children, and Relations lie, die, and be Damn'd, so they get their money; and when they have suckt their very hearts blood out, over with them to the Common-side, and there to the old Canvas bag, with pop, pop, <hi>for the Lords sake one Farthing,</hi> &amp; Caetera. And is not this rare, and base, that poor Souls, Planet-struck, and under Fates black Rod, should be thus treated? are not they of the same common stock with <hi>Adam,</hi> and inspir'd with divine Souls? Are they not bought with the precious blood of, Christ, and Consequently our Brethren.
+<pb n="29" facs="tcp:56894:18"/> Surely were our gratious King made through<g ref="char:EOLhyphen"/>ly acquainted with these things, there would be some course taken to redress them. In o<g ref="char:EOLhyphen"/>ther Nations it is not so, and I blush to think it should be so here, where Christianity is so much preached, though as little practis<g ref="char:EOLhyphen"/>ed. Well, well, have a care you Bull-beg<g ref="char:EOLhyphen"/>gars and Buffoons, that feed fat, like an Oxe against the day of slaughter, and suck the quintessence and marrow of the Land, you will one day be called to an account how you have spent your Talents, and how you have delt with Christs members here on earth; poor wretches who seem to be born with their heels upward, and Alians to the common-wealth of Fortune, that they should be so cruelly dealt with, as to pay for being estrained &amp; lockt up from liberty? why should <hi>England</hi> (somtimes the glory of the world) be out-done by any Nation that truckle under us, as the <hi>Dutch</hi> or the like; yet God has blest us with a most pious, gratious, merciful
+<pb n="30" facs="tcp:56894:19"/> and Valiant King, who dares deal with De<g ref="char:EOLhyphen"/>vil and Turk, and would doubtless make us all happy, and redress the Enormities, were we not so Stiff-neck'd, Rebellious, Trecherous Factious, and self-ended, that we grudg to afford him wherewith to do it; nay such are their Rebellious natures, they begin to grin and sneer like Dogs, at their Sovereign Lord the King.</p>
+            <p>But let them have a care, least the Almigh<g ref="char:EOLhyphen"/>ty takes a just revenge upon them, by send<g ref="char:EOLhyphen"/>ing instead of a Lamb, a Lyon, to rule them with a rod of Iron; Every see-simple, pitti<g ref="char:EOLhyphen"/>ful, inconsiderable Rascal, dares to bark a<g ref="char:EOLhyphen"/>gainst this holy Prince, as dogs against the Moon, but let them beware least they be met with.</p>
+            <lg>
+               <pb n="31" facs="tcp:56894:19"/>
+               <l>Princes, 'tis said, are demi-gods, oh then,</l>
+               <l>Rake not in their Ashes, to find them men.</l>
+            </lg>
+            <lg>
+               <l>For they free from pollution, and stain,</l>
+               <l>As Diamonds, or oyld-Canvas is from rain.</l>
+            </lg>
+            <lg>
+               <l>Princes their Tallies, and accounts brings in,</l>
+               <l>To God, but we Subjects, brings ours to him.</l>
+            </lg>
+            <lg>
+               <l>Then sauce it not too high, proud Jack, far know</l>
+               <l>Thy King can raise thee high, or lay thee law.</l>
+               <pb facs="tcp:56894:20"/>
+            </lg>
+            <pb n="33" facs="tcp:56894:20"/>
+            <p> NOw as to the <hi>Compters,</hi> and other curs<g ref="char:EOLhyphen"/>ed Prisons, or Slaughter-houses; call them what you please, I am loath to make so considerable as to mention them; but be<g ref="char:EOLhyphen"/>cause (like blocks) they lie in the way, on which I cannot but stumble, I shall take them up, and bring them to the fiery tryal of my Pen, giving my opinion as follows.</p>
+            <p>And though they are to <hi>Newgate</hi> but as a Shrimp to a Lobster, yet they are so base, and nothing but <hi>Lucifer</hi> would have to do with them. You shall see those Dogs, the Devils Druggery-men, lie sneaking upon a Bench, ready for any Villany, like a Spider <gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n her Web, catching at every silly flie; or like Old Nick their Father, seeking whom they may devour.</p>
+            <pb n="34" facs="tcp:56894:21"/>
+            <p>They are sworn upon their knees to be<g ref="char:EOLhyphen"/>tray their own Children, and so like Villains at last, they betray their own Souls, and then they are bid to rise up Varsets, which is a kind of dubing them Knights of the Post. For thirty pence, their Father-in-Law <hi>Judas</hi> his fee, they would betray Jesus Christ, were he on earth again.</p>
+            <p>But now while the poor Arrested Victime is in their Clutches, he shall not be put pre<g ref="char:EOLhyphen"/>sently in Prison, but in a barricado'd house, as ill, or worse, where a crew of Sharks will bite him till his bones crack, and then when all is done, away he is marcht to Hell, where Cerberus the Porter thereof, call'd the Turn-key, locks him up, where like a flock of Ravens, about a flea'd horse on a Dung<g ref="char:EOLhyphen"/>hill, the Heteroclites of the house, <hi>hic &amp; hoc, halec,</hi> comes powdering upon him, with <hi>mors in olla,</hi> one plucking a Feather, another a quill, till he's as bare as a drills britch.</p>
+            <pb n="35" facs="tcp:56894:21"/>
+            <p>
+               <hi>Item</hi> for a pare of lowsie sheets, in which some itchey Rascal lately lay,—2. <hi>s.</hi>
+            </p>
+            <p>And about a week after,</p>
+            <p>
+               <hi>Item</hi> for Brimstone and Butter from some Quaking Apothecary, to cure him,—2. <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Item</hi> for Garnish—3. <hi>s.</hi> 6. <hi>d.</hi> which if not able to pay, off trips the loose moveables, and into the Celler, with <hi>dedil mihi Vestim pignori.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> For an earthen Candlestick and a Chamber-pot of the same mettel, call'd plate forsooth—1. <hi>s.</hi>
+            </p>
+            <p>
+               <hi>Item,</hi> About a moneth after, for lying in an old lowsie Barn,—14. <hi>s.</hi> called Chamber-rent forsooth, or else down a down didle, to the hole so smoath, to which Hell compared, is Paradise, where the Old
+<pb n="36" facs="tcp:56894:22"/> Proverb is stroak over the thumbs; a knock, but not a bit; hunger as much as you will, but no ease; a man must take abuses there, and be thankful for them, least grumbling with a <hi>quid nu<gap reason="illegible: faint" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>c,</hi> his brains be dash'd out. Rake Hell, and scum the Devil; there's not such a damn'd crew to be found; and yet were they as careful, as watchful, there were nothing better, for they sleep not all night, nor can they, for swearing, cursing, roaring, and hallowing; yet they might be better exercis'd; for, if their bosome friends re<g ref="char:EOLhyphen"/>fuse to set them at work, their back-biters will imploy them with a <hi>circum scalptura corpus;</hi> and this is winkt at in this bloody beef-eating crewel Nation, where men are Woolves one to another; suffering their Brethren to be devoured, starv'd to death, and bu<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ied alive; thus men become Mur<g ref="char:EOLhyphen"/>therers, for though the crewel law, <hi>de ex<g ref="char:EOLhyphen"/>emplo</hi> justifies it, yet God doth not, and so must expect a reward, justly due to such
+<pb n="37" facs="tcp:56894:22"/> cruel Dogs, which (without great Repen<g ref="char:EOLhyphen"/>tance) will be damn'd for Homicide.</p>
+            <p>But take notice, I do not stile the <hi>Bench</hi> a Prison, in comparison of the rest, because of the Martials infinite mercies, and huma<g ref="char:EOLhyphen"/>nity, besides the priviledges which belongs to it.</p>
+            <lg>
+               <l>Mongst all the Sons of men, and those that kill,</l>
+               <l>By locking up, pray call them what you will.</l>
+            </lg>
+            <lg>
+               <l>Martials, or Guardians, Devil, or his Dam;</l>
+               <l>There is but one, that is an honest man:</l>
+            </lg>
+            <lg>
+               <l>And he for ought I know, being best of men,</l>
+               <l>May make attonement for his Brethren.</l>
+            </lg>
+            <pb n="38" facs="tcp:56894:23"/>
+            <p>I should have proceeded a little farther, telling them their own, but their Villanies are so infinite, and they themselves so in<g ref="char:EOLhyphen"/>considerable, and withal so incourigable, and besides, my time so pretious, that I think it not worth my while, to wast off hours which may be better spent in prayers to God, that the Devil may fetch them before they do farther m<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>schief, and so farewell f<gap reason="illegible: missing" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ost.</p>
+            <lg>
+               <l>When Hell is ready, and the Devil's there,</l>
+               <l>To entertain such Dogs as Serjants are.</l>
+            </lg>
+            <lg>
+               <l>I hope he'l come or send for them at least;</l>
+               <l>Till when I'm sure, the earth will near be blest.</l>
+            </lg>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:56894:23"/>
+         </div>
+      </body>
+   </text>
+</TEI>
